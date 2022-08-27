@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working as an AI and Data Science Product Manager.
+#### I’m currently working as an AI and Data Science Product Manager. Maybe working on something interesting, please reach out for collaboration.. 🔭 
 
 <!--
 **qSergio/qSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
